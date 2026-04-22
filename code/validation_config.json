@@ -1,0 +1,5 @@
+{
+  "user_query": "string",
+  "mcp_tool_id": "string",
+  "mcp_server_url": "string"
+}
